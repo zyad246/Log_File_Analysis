@@ -1,8 +1,8 @@
-# Log File Analysis Tool
+# Log File Analysis 
 
 ## Overview
 
-The **Log File Analysis Tool** is a Python project that processes web server logs and stores the data in a PostgreSQL database. It uses an ETL (Extract, Transform, Load) process to automate the extraction of raw logs, transform them into a structured format, and load them into the database for analysis.
+The **Log File Analysis** is a Python project that processes web server logs and stores the data in a PostgreSQL database. It uses an ETL (Extract, Transform, Load) process to automate the extraction of raw logs, transform them into a structured format, and load them into the database for analysis.
 
 ## How It Works
 
